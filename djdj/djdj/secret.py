@@ -1,0 +1,1 @@
+secret = 'django-insecure-s1(%1pg#0)(1=!n=%=p+8l=rh2*%pg!e(t(im%@(21j-5qa$21'

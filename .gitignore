@@ -130,3 +130,4 @@ dmypy.json
 venv
 .idea
 djdj/db.sqlite3
+djdj/secret.py
